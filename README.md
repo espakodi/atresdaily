@@ -15,6 +15,8 @@
 - No está configurado para buscar contenido ilegal ni protegido
 - Los resultados pueden variar (capítulos, trailers, resúmenes, etc.)
 
+<br>
+
 <p align="center">
   <img src="capturas/screenshot1.png" alt="AtresDaily en Kodi" width="600">
   <br><br>
@@ -77,9 +79,15 @@ El desarrollador de este addon **NO se hace responsable** del uso que los usuari
 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto, puedes visitar:
 
-👉 **[Donaciones y Contacto](https://fullstackcurso.github.io/donaciones/#mensaje)**
+👉 **[Confirmación y Contacto](https://fullstackcurso.github.io/donaciones/#confirmar)**
+
+---
+
+## 🚀 Próximas mejoras (To-do)
+
+- [ ] Añadir más fuentes externas para aumentar la tasa de resultados.
+- [ ] Optimizar el sistema de emparejamiento inteligente.
 
 ---
 
 *Addon desarrollado por fullstackcurso*
-
