@@ -15,6 +15,10 @@
 - No está configurado para buscar contenido ilegal ni protegido
 - Los resultados pueden variar (capítulos, trailers, resúmenes, etc.)
 
+<p align="center">
+  <img src="screenshot.png" alt="AtresDaily en Kodi" width="600">
+</p>
+
 ---
 
 ## 📥 Instalación
