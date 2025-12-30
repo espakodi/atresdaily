@@ -16,15 +16,15 @@
 - Los resultados pueden variar (capítulos, trailers, resúmenes, etc.)
 
 <p align="center">
-  <img src="screenshot1.png" alt="AtresDaily en Kodi" width="600">
+  <img src="capturas/screenshot1.png" alt="AtresDaily en Kodi" width="600">
   <br><br>
-  <img src="screenshot2.png" alt="Categorías" width="600">
+  <img src="capturas/screenshot2.png" alt="Categorías" width="600">
   <br><br>
-  <img src="screenshot3.png" alt="Lista de programas" width="600">
+  <img src="capturas/screenshot3.png" alt="Lista de programas" width="600">
   <br><br>
-  <img src="screenshot4.png" alt="Episodios" width="600">
+  <img src="capturas/screenshot4.png" alt="Episodios" width="600">
   <br><br>
-  <img src="screenshot5.png" alt="Resultados de búsqueda" width="600">
+  <img src="capturas/screenshot5.png" alt="Resultados de búsqueda" width="600">
 </p>
 
 ---
