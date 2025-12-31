@@ -37,12 +37,15 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 1. Abre Kodi y ve a **Ajustes** (icono del engranaje).
 2. Entra en **Explorador de archivos** y selecciona **Añadir fuente**.
 3. Haz clic en `<Ninguno>` y escribe la siguiente dirección: `https://fullstackcurso.github.io/atresdaily/`
+   > ⚠️ **MUY IMPORTANTE:** Debes escribir **EXACTAMENTE** esta dirección terminada en `.io`. **NO** copies la dirección que ves en la barra de tu navegador (github.com...), ya que esa no funciona en Kodi y te saldrá la carpeta vacía.
 4. Dale un nombre a la fuente (por ejemplo: `atresdaily`) y pulsa **OK**.
 5. Vuelve al menú principal, entra en **Add-ons** y haz clic en el icono de la **cajita abierta** (arriba a la izquierda).
 6. Selecciona **Instalar desde archivo zip**.
    - *Nota: Si te sale un aviso de seguridad, ve a Ajustes y activa la opción "Orígenes desconocidos".*
-7. Selecciona la fuente `atresdaily` y elige el archivo `plugin.video.atresdaily-1.0.3.zip` (o la versión más reciente).
-8. Espera a que aparezca la notificación de "Add-on instalado".
+7. Selecciona la fuente `atresdaily` y elige el archivo `repository.atresdaily-1.0.0.zip`.
+8. Espera a que aparezca la notificación de "Add-on instalado" (esto instala el repositorio).
+9. Ahora, en el mismo menú, selecciona **Instalar desde repositorio**.
+10. Entra en **AtresDaily Repository** > **Add-ons de vídeo** > **AtresDaily** y pulsa **Instalar**.
 
 ### Opción 2: Instalación manual mediante archivo ZIP
 1. Descarga el archivo `.zip` de la última versión desde la sección de **[Releases](../../releases)**.
