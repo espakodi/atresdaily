@@ -4,7 +4,7 @@
 
 ## 📺 Descripción
 
-**AtresDaily** es un addon para Kodi que te permite explorar el catálogo de Atresplayer y buscar vídeos coincidentes en internet.
+**AtresDaily** es un addon para Kodi que te permite explorar el catálogo de Atresplayer y buscar vídeos coincidentes en internet. También permite buscar manualmente cualquier vídeo aunque no se encuentre en el catálogo y ver cosas antes de que se emitan.
 
 ### ⚠️ Aviso importante
 
@@ -93,6 +93,7 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 ---
 
 *Addon desarrollado por fullstackcurso*
+
 
 
 
