@@ -1,7 +1,7 @@
 # AtresDaily - Addon para Kodi
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi)
-![License](https://img.shields.io/badge/Licencia-GPL--2.0-green)
+
 ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
 ## 📺 Descripción
