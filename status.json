@@ -1,5 +1,6 @@
 {
     "allowed": true,
     "min_version": "1.0.0",
-    "message": "Existe una nueva versión obligatoria. Por favor, actualiza el addon desde el repositorio."
+    "message": "Existe una nueva versión. Por favor, actualiza el addon desde el repositorio."
+
 }
