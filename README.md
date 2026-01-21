@@ -1,48 +1,47 @@
 # AtresDaily - Addon para Kodi
 
-![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Inactivo-lightgrey)
+![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-green)
 
-# ⚠️ PROYECTO MIGRADO A ESPADAILY ⚠️
-
-> **[2026-01-03] AVISO IMPORTANTE:**
-> Este addon (**AtresDaily**) ha dejado de recibir actualizaciones y se considera **OBSOLETO**.
->
-> El addon **sigue funcionando correctamente** para explorar el catálogo de Atresplayer y buscar contenido, pero todo el desarrollo futuro se centrará exclusivamente en el nuevo proyecto.
-> 
-> Todas sus funciones (Series, Programas, Documentales de Atresplayer) han sido trasladadas y mejoradas en el nuevo addon **EspaDaily**, que unifica:
-> *   ✅ **Atresplayer**
-> *   ✅ **RTVE Play**
-> *   ✅ **Mediaset**
-> *   ✅ **Buscador Universal**
->
-> 👉 **POR FAVOR, INSTALA EL NUEVO ADDON DESDE AQUÍ:**
-> **[https://github.com/fullstackcurso/espadaily](https://github.com/fullstackcurso/espadaily)**
-
----
 
 ## 📺 Descripción
 
-**AtresDaily** es un addon para Kodi que te permite explorar el catálogo de Atresplayer y buscar vídeos coincidentes en internet. También permite buscar manualmente cualquier vídeo aunque no se encuentre en el catálogo y ver cosas antes de que se emitan.
+**AtresDaily 2.0** es un puente entre Kodi y el catálogo de Atresplayer. Adapta la información y el contenido de la web oficial para visualizarlo cómodamente en tu centro multimedia.
 
-### ⚠️ Aviso importante
+### 🔧 Características
 
-- Este addon **NO aloja ningún contenido**
-- Solo actúa como **buscador de vídeos** en plataformas públicas
-- No está configurado para buscar contenido ilegal ni protegido
-- Los resultados pueden variar (capítulos, trailers, resúmenes, etc.)
+- ✅ **Acceso Híbrido**: Reproduce directamente el contenido gratuito y ofrece la opción de buscar en internet cuando el contenido no está disponible
+- ✅ **100% Limpio, Seguro y Gratuito**: Sin registro obligatorio, sin seguimiento de uso, sin pagos al desarrollador. Respeta tu privacidad y seguridad
+- ✅ **Explorador completo**: Series, Programas, Documentales, Infantil, Actualidad y Cine
+- ✅ **TV en Directo**: Acceso rápido a la programación en vivo
+- ✅ **Búsqueda Inteligente**: Motor optimizado para Dailymotion con soporte P2P experimental
+- ✅ **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea
+- ✅ **Descargas**: Guarda tus vídeos favoritos para verlos offline
+- ✅ **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups)
+- ✅ **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente
+- ✅ **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido
+- ✅ **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
+- ✅ **Modo Offline**: Instantáneas del catálogo para navegar sin conexión
+- ✅ **Filtros Anti-Trailers**: Evita clips cortos y encuentra capítulos completos (Modo Cine, Solo Recientes...)
+- ✅ **Privacidad Total**: Todo se guarda en tu dispositivo, sin registros externos
+
+### ⚠️ Aviso Legal
+
+- Este addon **NO aloja** ni distribuye contenido protegido.
+- Funciona como un **puente** entre Kodi y contenidos disponibles públicamente en la red, sin saltarse ningún muro de pago.
+- El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 
 <br>
 
 <p align="center">
-  <img src="capturas/screenshot1.png" alt="AtresDaily en Kodi" width="600">
+  <img src="capturas/screenshot1.png" width="600">
   <br><br>
-  <img src="capturas/screenshot2.png" alt="Categorías" width="600">
+  <img src="capturas/screenshot2.png" width="600">
   <br><br>
-  <img src="capturas/screenshot3.png" alt="Lista de programas" width="600">
+  <img src="capturas/screenshot3.png" width="600">
   <br><br>
-  <img src="capturas/screenshot4.png" alt="Episodios" width="600">
+  <img src="capturas/screenshot4.png" width="600">
   <br><br>
-  <img src="capturas/screenshot5.png" alt="Resultados de búsqueda" width="600">
+  <img src="capturas/screenshot5.png" width="600">
 </p>
 
 ---
@@ -60,7 +59,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 5. Vuelve al menú principal, entra en **Add-ons** y haz clic en el icono de la **cajita abierta** (arriba a la izquierda).
 6. Selecciona **Instalar desde archivo zip**.
    - *Nota: Si te sale un aviso de seguridad, ve a Ajustes y activa la opción "Orígenes desconocidos".*
-7. Selecciona la fuente `atresdaily` y elige el archivo `repository.atresdaily-1.0.0.zip`.
+7. Selecciona la fuente `atresdaily` y elige el archivo `repository.atresdaily-1.0.1.zip`.
 8. Espera a que aparezca la notificación de "Add-on instalado" (esto instala el repositorio).
 9. Ahora, en el mismo menú, selecciona **Instalar desde repositorio**.
 10. Entra en **AtresDaily Repository** > **Add-ons de vídeo** > **AtresDaily** y pulsa **Instalar**.
@@ -70,46 +69,37 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 2. En Kodi, ve a **Add-ons > Icono de la cajita > Instalar desde archivo zip**.
 3. Busca en tu dispositivo el archivo descargado y selecciónalo para completar la instalación.
 
----
+> ⚠️ **Primer Inicio:** Al abrir el addon por primera vez, verás un aviso legal (**cuyos puntos clave puedes consultar más abajo**). Para activarlo, **es obligatorio escribir la palabra "ACEPTAR"** (sin comillas). Sin este paso, el código permanecerá bloqueado y no realizará ninguna función.
 
-## 🔧 Características
+## 💬 Contacto y Soporte
 
-- ✅ Explora Series, Programas, Documentales, Infantil, Actualidad y Cine
-- ✅ Búsqueda inteligente de contenido
-- ✅ Selección de calidad de vídeo
-- ✅ Sin publicidad ni trackers
+Podrás encontrar el formulario de contacto en la página principal del proyecto en GitHub.
 
----
+👉 **[GitHub](https://github.com/fullstackcurso)**
+
+👉 **[Canal de Telegram](https://t.me/espadaily)**
 
 ## 📋 Requisitos
 
 - Kodi 19 (Matrix) o superior
 - Conexión a internet
+- No requiere dependencias complejas
 
 ---
 
-## ⚖️ Exención de responsabilidad
+### 📜 Puntos Clave del Aviso Legal
 
-El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
-
----
-
-## 💬 Contacto y Soporte
-
-Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto, puedes visitar:
-
-👉 **[Donaciones y Contacto](https://fullstackcurso.github.io/donaciones/#mensaje)**
+- Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido.
+- Conforme a la jurisprudencia europea (Caso Svensson), enlazar a contenidos ya disponibles públicamente en la red no constituye una nueva comunicación al público.
+- Uso de marcas comerciales solo con fines **informativos** (Fair Use), sin afiliación oficial.
+- **Sin ánimo de lucro**: Gratuito, sin publicidad, sin recopilación de datos.
+- El usuario es el único responsable de cumplir con las leyes de su jurisdicción.
+- **Solo Interfaz**: El código aquí presente solo dibuja los menús; los vídeos vienen de conexiones externas.
+- **Voluntad de Cooperación**: Disposición total para colaborar con los titulares de derechos para la retirada inmediata de enlaces específicos.
 
 ---
 
-## 🚀 Próximas mejoras (To-do)
-
-- [ ] Añadir más fuentes para aumentar los resultados y aciertos.
-- [ ] Que se muestren más series, películas, programas, etc.
-- [ ] Desarrollar versiones similares para **Mitele** y **RTVE**.
-
----
-### Filosofía
+## 📖 Filosofía y Manifiesto
 Este proyecto nace con la intención de **facilitar el acceso a la cultura audiovisual** y no de sustituir a los servicios oficiales. Cabe destacar que la gran mayoría de los enlaces encontrados por esta herramienta apuntan a contenidos de **baja resolución** (frecuentemente inferiores a 720p), lo que dista mucho de la experiencia *premium* que ofrecen las plataformas de pago.
 
 ### Publicidad y Marketing Orgánico
@@ -126,6 +116,16 @@ Finalmente, la presencia de estos archivos en la red cumple una función involun
 ___
 
 *Addon desarrollado por fullstackcurso*
+
+<div align="center">
+  <img src="https://img.shields.io/github/downloads/fullstackcurso/atresdaily/total?style=flat-square&color=blue&label=Downloads" alt="Downloads">
+  <img src="https://img.shields.io/github/stars/fullstackcurso/atresdaily?style=flat-square&color=yellow&label=Stars" alt="Stars">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fullstackcurso.atresdaily" alt="Visitors">
+  
+  <br>
+  
+  <sub>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.*</sub>
+</div>
 
 
 
