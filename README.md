@@ -9,20 +9,20 @@
 
 ### 🔧 Características
 
-- ✅ **Acceso Híbrido**: Reproduce directamente el contenido gratuito y ofrece la opción de buscar en internet cuando el contenido no está disponible
-- ✅ **100% Limpio, Seguro y Gratuito**: Sin registro obligatorio, sin seguimiento de uso, sin pagos al desarrollador. Respeta tu privacidad y seguridad
-- ✅ **Explorador completo**: Series, Programas, Documentales, Infantil, Actualidad y Cine
-- ✅ **TV en Directo**: Acceso rápido a la programación en vivo
-- ✅ **Búsqueda Inteligente**: Motor optimizado para Dailymotion con soporte P2P experimental
-- ✅ **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea
-- ✅ **Descargas**: Guarda tus vídeos favoritos para verlos offline
-- ✅ **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups)
-- ✅ **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente
-- ✅ **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido
-- ✅ **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
-- ✅ **Modo Offline**: Instantáneas del catálogo para navegar sin conexión
-- ✅ **Filtros Anti-Trailers**: Evita clips cortos y encuentra capítulos completos (Modo Cine, Solo Recientes...)
-- ✅ **Privacidad Total**: Todo se guarda en tu dispositivo, sin registros externos
+- **Acceso Híbrido**: Reproduce directamente el contenido gratuito y ofrece la opción de buscar en internet cuando el contenido no está disponible
+- **100% Limpio, Seguro y Gratuito**: Sin registro obligatorio, sin seguimiento de uso, sin pagos al desarrollador. Respeta tu privacidad y seguridad
+- **Explorador completo**: Series, Programas, Documentales, Infantil, Actualidad y Cine
+- **TV en Directo**: Acceso rápido a la programación en vivo
+- **Búsqueda Inteligente**: Motor optimizado para Dailymotion con soporte P2P experimental
+- **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea
+- **Descargas**: Guarda tus vídeos favoritos para verlos offline
+- **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups)
+- **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente
+- **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido
+- **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
+- **Modo Offline**: Instantáneas del catálogo para navegar sin conexión
+- **Filtros Anti-Trailers**: Evita clips cortos y encuentra capítulos completos (Modo Cine, Solo Recientes...)
+- **Privacidad Total**: Todo se guarda en tu dispositivo, sin registros externos
 
 ### ⚠️ Aviso Legal
 
@@ -126,12 +126,6 @@ ___
   
   <sub>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.*</sub>
 </div>
-
-
-
-
-
-
 
 
 
