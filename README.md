@@ -5,7 +5,7 @@
 
 ## 📺 Descripción
 
-**AtresDaily 2.5** es un puente entre Kodi y el catálogo de Αtrеsрlаyer. Adapta la información y el contenido de la web oficial para visualizarlo cómodamente en tu centro multimedia.
+**AtresDaily** es un puente entre Kodi y el catálogo de Αtrеsрlаyer. Adapta la información y el contenido de la web oficial para visualizarlo cómodamente en tu centro multimedia.
 
 ### 🔧 Características
 
@@ -22,7 +22,7 @@
 - **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
 - **Modo Offline**: Instantáneas del catálogo para navegar sin conexión
 - **Filtros Anti-Trailers**: Evita clips cortos y encuentra capítulos completos (Modo Cine, Solo Recientes...)
-- **Privacidad Total**: Todo se guarda en tu dispositivo, sin registros externos
+- **Privacidad Responsable**: Solo se envía un identificador anónimo para contar instalaciones activas. Sin datos personales, sin seguimiento de uso
 
 ### ⚠️ Aviso Legal
 
@@ -73,6 +73,12 @@ Podrás encontrar el formulario de contacto en la página principal del proyecto
 
 👉 **[Canal de Telegram](https://t.me/espadaily)**
 
+👉 **[Telegram EspaKodi](https://t.me/espakodi)**
+
+👉 **[Contacto Telegram](https://t.me/rubensdfa1labernt)**
+
+👉 **[Contacto Web](https://fullstackcurso.github.io/donaciones/#mensaje)**
+
 ## 📋 Requisitos
 
 - Kodi 19 (Matrix) o superior
@@ -86,7 +92,7 @@ Podrás encontrar el formulario de contacto en la página principal del proyecto
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido.
 - Conforme a la jurisprudencia europea (Caso Svensson), enlazar a contenidos ya disponibles públicamente en la red no constituye una nueva comunicación al público.
 - Uso de marcas comerciales solo con fines **informativos** (Fair Use), sin afiliación oficial.
-- **Sin ánimo de lucro**: Gratuito, sin publicidad, sin recopilación de datos.
+- **Sin ánimo de lucro**: Gratuito, sin publicidad, sin recopilación de datos personales.
 - El usuario es el único responsable de cumplir con las leyes de su jurisdicción.
 - **Solo Interfaz**: El código aquí presente solo dibuja los menús; los vídeos vienen de conexiones externas.
 - **Voluntad de Cooperación**: Disposición total para colaborar con los titulares de derechos para la retirada inmediata de enlaces específicos.
@@ -118,14 +124,5 @@ ___
   
   <br>
   
-  <sub>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.*</sub>
+  <sub>*Las métricas son estimaciones. El contador de descargas refleja solo las de GitHub Releases, no las instalaciones directas desde Kodi.*</sub>
 </div>
-
-
-
-
-
-
-
-
-
