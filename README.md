@@ -5,15 +5,15 @@
 
 ## 📺 Descripción
 
-**AtresDaily** es un puente entre Kodi y el catálogo de Αtrеsрlаyer. Adapta la información y el contenido de la web oficial para visualizarlo cómodamente en tu centro multimedia.
+**AtresDaily** es un addon para Kodi centrado en el catálogo de Αtrеsрlаyer. Busca vídeos públicos disponibles en internet para cada contenido del catálogo.
 
 ### 🔧 Características
 
 - **Acceso Híbrido**: Reproduce directamente el contenido gratuito y ofrece la opción de buscar en internet cuando el contenido no está disponible
-- **100% Limpio, Seguro y Gratuito**: Sin registro obligatorio, sin seguimiento de uso, sin pagos al desarrollador. Respeta tu privacidad y seguridad
+- **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso
 - **Explorador completo**: Series, Programas, Documentales, Infantil, Actualidad y Cine
 - **TV en Directo**: Acceso rápido a la programación en vivo
-- **Búsqueda Inteligente**: Motor optimizado para Dailymotion con soporte P2P experimental
+- **Búsqueda Inteligente**: Motor optimizado para Dаіlуmоtіоn con soporte P2P experimental
 - **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea
 - **Descargas**: Guarda tus vídeos favoritos para verlos offline
 - **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups)
@@ -27,7 +27,7 @@
 ### ⚠️ Aviso Legal
 
 - Este addon **NO aloja** ni distribuye contenido protegido.
-- Funciona como un **puente** entre Kodi y contenidos disponibles públicamente en la red, sin saltarse ningún muro de pago.
+- Funciona como un **buscador** que localiza contenidos ya disponibles públicamente en la red, sin saltarse ningún muro de pago.
 - El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 
 <br>
@@ -48,7 +48,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 1. Abre Kodi y ve a **Ajustes** (icono del engranaje).
 2. Entra en **Explorador de archivos** y selecciona **Añadir fuente**.
 3. Haz clic en `<Ninguno>` y escribe la siguiente dirección: `https://fullstackcurso.github.io/atresdaily/`
-   > ⚠️ **MUY IMPORTANTE:** Debes escribir **EXACTAMENTE** esta dirección terminada en `.io`. **NO** copies la dirección que ves en la barra de tu navegador (github.com...), ya que esa no funciona en Kodi y te saldrá la carpeta vacía.
+   > ⚠️ **MUY IMPORTANTE:** Debes escribir **EXACTAMENTE** esta dirección terminada en `.io/atresdaily/`. **NO** copies la dirección que ves en la barra de tu navegador (github.com...), ya que esa no funciona en Kodi y te saldrá la carpeta vacía.
 4. Dale un nombre a la fuente (por ejemplo: `atresdaily`) y pulsa **OK**.
 5. Vuelve al menú principal, entra en **Add-ons** y haz clic en el icono de la **cajita abierta** (arriba a la izquierda).
 6. Selecciona **Instalar desde archivo zip**.
@@ -65,21 +65,22 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 
 > ⚠️ **Primer Inicio:** Al abrir el addon por primera vez, verás un aviso legal (**cuyos puntos clave puedes consultar más abajo**). Para activarlo, **es obligatorio escribir la palabra "ACEPTAR"** (sin comillas). Sin este paso, el código permanecerá bloqueado y no realizará ninguna función.
 
-## 💬 Contacto y Soporte
+## Contacto y Soporte
 
-Podrás encontrar el formulario de contacto en la página principal del proyecto en GitHub.
+Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto:
 
-👉 **[GitHub](https://github.com/fullstackcurso)**
+**Webs:**
+- [FullStackCurso](https://github.com/fullstackcurso)
+- [EspaKodi](https://github.com/espakodi)
+- [LoioLoio](https://github.com/loioloio)
 
-👉 **[GitHub Espakodi](https://github.com/espakodi)**
+**Telegram:**
+- [Canal EspaDaily](https://t.me/espadaily)
+- [Canal EspaKodi](https://t.me/espakodi)
 
-👉 **[Canal de Telegram](https://t.me/espadaily)**
-
-👉 **[Telegram EspaKodi](https://t.me/espakodi)**
-
-👉 **[Contacto Telegram](https://t.me/rubensdfa1labernt)**
-
-👉 **[Contacto Web](https://fullstackcurso.github.io/donaciones/#mensaje)**
+**Contacto directo:**
+- [Telegram personal](https://t.me/rubensdfa1labernt)
+- [Donaciones y mensajes](https://fullstackcurso.github.io/donaciones/#mensaje)
 
 ## 📋 Requisitos
 
@@ -94,37 +95,11 @@ Podrás encontrar el formulario de contacto en la página principal del proyecto
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido.
 - Conforme a la jurisprudencia europea (Caso Svensson), enlazar a contenidos ya disponibles públicamente en la red no constituye una nueva comunicación al público.
 - Uso de marcas comerciales solo con fines **informativos** (Fair Use), sin afiliación oficial.
-- **Sin ánimo de lucro**: Gratuito, sin publicidad, sin recopilación de datos personales.
+- **Sin ánimo de lucro**: Gratuito, sin publicidad. Solo un identificador anónimo para contar instalaciones.
 - El usuario es el único responsable de cumplir con las leyes de su jurisdicción.
 - **Solo Interfaz**: El código aquí presente solo dibuja los menús; los vídeos vienen de conexiones externas.
 - **Voluntad de Cooperación**: Disposición total para colaborar con los titulares de derechos para la retirada inmediata de enlaces específicos.
 
 ---
 
-## 📖 Filosofía y Manifiesto
-Este proyecto nace con la intención de **facilitar el acceso a la cultura audiovisual** y no de sustituir a los servicios oficiales. Cabe destacar que la gran mayoría de los enlaces encontrados por esta herramienta apuntan a contenidos de **baja resolución** (frecuentemente inferiores a 720p), lo que dista mucho de la experiencia *premium* que ofrecen las plataformas de pago.
-
-### Publicidad y Marketing Orgánico
-Paradójicamente, este tipo de acceso actúa a menudo como una puerta de entrada y una **potente herramienta de publicidad gratuita**. Ver un episodio suelto o un programa a través de estas vías puede llevar al usuario a comentarlo y compartirlo en redes sociales, generando un ruido digital y un marketing orgánico para la cadena original que, de otro modo, no existiría. Muchos usuarios descubren contenido aquí y, al engancharse, buscan una experiencia superior y mayor comodidad, terminando por **migrar a servicios de suscripción oficiales**.
-
-### Accesibilidad y Realidad Económica
-Quienes deciden permanecer consumiendo en baja calidad suelen hacerlo por **barreras económicas**, no por elección; esto significa que rara vez representan una pérdida real de clientes comerciales. Restringir este acceso no convierte a estos usuarios en suscriptores, sino que simplemente amplía la brecha cultural y limita el acceso a la información. 
-
-> Cuando la oferta oficial es sencilla, asequible y de calidad, el usuario tiende a elegirla naturalmente por encima de cualquier otra opción.
-
-### Preservación Histórica
-Finalmente, la presencia de estos archivos en la red cumple una función involuntaria de **preservación histórica**. Actúa como una "cápsula del tiempo" para contenido antiguo, descatalogado o de nicho que ya ha desaparecido de los catálogos comerciales, asegurando que estas obras no se pierdan para siempre en el olvido digital.
-
-___
-
 *Addon desarrollado por fullstackcurso*
-
-<div align="center">
-  <img src="https://img.shields.io/github/downloads/fullstackcurso/atresdaily/total?style=flat-square&color=blue&label=Downloads" alt="Downloads">
-  <img src="https://img.shields.io/github/stars/fullstackcurso/atresdaily?style=flat-square&color=yellow&label=Stars" alt="Stars">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fullstackcurso.atresdaily" alt="Visitors">
-  
-  <br>
-  
-  <sub>*Las métricas son estimaciones. El contador de descargas refleja solo las de GitHub Releases, no las instalaciones directas desde Kodi.*</sub>
-</div>
