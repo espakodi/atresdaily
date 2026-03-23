@@ -90,6 +90,13 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 
 ---
 
+### ⚠️ Aviso sobre publicaciones
+
+Los autores de AtresDaily **no desean** que se publiquen artículos, reseñas o tutoriales en blogs, periódicos digitales, revistas online, YouTube, Twitter/X, Facebook, Reddit, foros públicos ni TikTok sin autorización expresa.
+
+Si te gusta, compártelo de persona a persona.
+
+
 ### 📜 Puntos Clave del Aviso Legal
 
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido.
