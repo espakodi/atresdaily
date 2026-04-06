@@ -57,13 +57,14 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto:
 
 **Webs:**
+- [EspaTV (REPOSITORIO PRINCIPAL)](https://github.com/espatv)
 - [FullStackCurso](https://github.com/fullstackcurso)
 - [EspaKodi](https://github.com/espakodi)
 - [LoioLoio](https://github.com/loioloio)
 
 **Telegram:**
 - [Canal EspaDaily](https://t.me/espadaily)
-- [Canal EspaKodi](https://t.me/espakodi)
+- [Chat EspaKodi](https://t.me/espakodi)
 
 **Contacto directo:**
 - [Telegram personal](https://t.me/rubensdfa1labernt)
