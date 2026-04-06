@@ -9,20 +9,13 @@
 
 ### Características
 
-- **Acceso Híbrido**: Reproduce directamente el contenido gratuito y ofrece la opción de buscar en internet cuando el contenido no está disponible
 - **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso
-- **Explorador completo**: Series, Programas, Documentales, Infantil, Actualidad y Cine
-- **TV en Directo**: Acceso rápido a la programación en vivo
-- **Búsqueda Inteligente**: Motor optimizado para Dаіlуmоtіоn con soporte P2P experimental
 - **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea
-- **Descargas**: Guarda tus vídeos favoritos para verlos offline
 - **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups)
 - **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente
 - **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido
 - **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
-- **Modo Offline**: Instantáneas del catálogo para navegar sin conexión
-- **Filtros Anti-Trailers**: Evita clips cortos y encuentra capítulos completos (Modo Cine, Solo Recientes...)
-- **Privacidad Responsable**: Solo se envía un identificador anónimo para contar instalaciones activas. Sin datos personales, sin seguimiento de uso
+- **Privacidad Responsable**: No se recopilan datos personales.
 
 ### ⚠️ Aviso Legal
 
@@ -31,12 +24,6 @@
 - El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 
 <br>
-
-<p align="center">
-  <img src="capturas/screenshot1.jpg" width="600">
-  <br><br>
-  <img src="capturas/screenshot2.jpg" width="600">
-</p>
 
 ---
 
