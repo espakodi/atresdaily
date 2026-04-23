@@ -18,7 +18,6 @@ Repositorio: https://fullstackcurso.github.io/atresdaily/
 
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido ni distribuir contenido protegido.
 - Funciona como un **buscador** que localiza contenidos ya disponibles públicamente en la red, sin saltarse ningún muro de pago.
-- Conforme a la jurisprudencia europea (Caso Svensson), enlazar a contenidos ya disponibles públicamente en la red no constituye una nueva comunicación al público.
 - Uso de marcas comerciales solo con fines **informativos** (Fair Use), sin afiliación oficial.
 - **Sin ánimo de lucro y sin recopilación de datos personales**: Gratuito, sin publicidad. Solo se envía información anónima de la versión de Kodi, el addon y sistema operativo para organizar el desarrollo, no hay ningún interés en obtener datos personales.
 - El usuario es el único responsable de cumplir con las leyes de su jurisdicción.
