@@ -2,14 +2,14 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-green)
 
-Repositorio: https://fullstackcurso.github.io/atresdaily/
+Repositorio y más información: https://fullstackcurso.github.io/atresdaily/
 
 ### Verificación de integridad (v2.7.0):
 
 - **MD5**: a6a47c8abffb0f007cef6d2f7931e696
 - **SHA-256**: dfd864d4a4507ed5e83e15d8072b265f06d6da37b3c4dcccba0410b4ed3875a2
 
-### Características
+### Datos
 
 - Sin registro obligatorio, sin publicidad, sin software malicioso, sin ánimo de lucro.
 - **Privacidad Responsable**: No se recopilan datos personales.
