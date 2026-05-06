@@ -4,10 +4,10 @@
 
 Repositorio: https://fullstackcurso.github.io/atresdaily/
 
-### Verificación de integridad (v2.6.5):
+### Verificación de integridad (v2.7.0):
 
-- **MD5**: B0FF2CE29CCE614EED7A17CF7B6A05B7
-- **SHA-256**: 07A7A03EB6EECA4C3598DBF837965A12A1B50BB104A3B9924D3B8A1F2EB291AC
+- **MD5**: a6a47c8abffb0f007cef6d2f7931e696
+- **SHA-256**: dfd864d4a4507ed5e83e15d8072b265f06d6da37b3c4dcccba0410b4ed3875a2
 
 ### Características
 
