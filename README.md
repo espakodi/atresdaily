@@ -6,12 +6,12 @@ Repositorio y más información: https://fullstackcurso.github.io/atresdaily/
 
 ### Verificación de integridad (v2.7.0):
 
-- **MD5**: a6a47c8abffb0f007cef6d2f7931e696
-- **SHA-256**: dfd864d4a4507ed5e83e15d8072b265f06d6da37b3c4dcccba0410b4ed3875a2
+- **MD5**: 70e54317db4d7389aa726a90f67156bb
+- **SHA-256**: 15e0fd5f9269fcae29f9d1dadede61e58688ea85d562aab65cfd918d982ab627
 
-- Sin registro obligatorio, sin publicidad, sin software malicioso, sin ánimo de lucro. No se recopilan datos personales.
-### Puntos Clave del Aviso Legal
+### Puntos Clave
 
+- Sin registro, sin publicidad, sin código malicioso, sin ánimo de lucro. No se recopilan datos personales.
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido ni distribuir contenido protegido.
 - Funciona como un **buscador** que localiza contenidos ya disponibles públicamente en la red, sin saltarse ningún muro de pago.
 - Uso de marcas comerciales solo con fines **informativos** (Fair Use), sin afiliación oficial.
