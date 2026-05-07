@@ -9,11 +9,7 @@ Repositorio y más información: https://fullstackcurso.github.io/atresdaily/
 - **MD5**: a6a47c8abffb0f007cef6d2f7931e696
 - **SHA-256**: dfd864d4a4507ed5e83e15d8072b265f06d6da37b3c4dcccba0410b4ed3875a2
 
-### Datos
-
-- Sin registro obligatorio, sin publicidad, sin software malicioso, sin ánimo de lucro.
-- **Privacidad Responsable**: No se recopilan datos personales.
-
+- Sin registro obligatorio, sin publicidad, sin software malicioso, sin ánimo de lucro. No se recopilan datos personales.
 ### Puntos Clave del Aviso Legal
 
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido ni distribuir contenido protegido.
