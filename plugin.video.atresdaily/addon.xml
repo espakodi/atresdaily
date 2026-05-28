@@ -1,5 +1,5 @@
 <addon
-	id="plugin.video.atresdaily" version="2.7.6" name="[B][COLOR orange]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="EspaKodi">
+	id="plugin.video.atresdaily" version="3.0.0" name="[B][COLOR orange]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="EspaKodi">
 <requires>
     <import addon="script.module.requests" />
     <import addon="script.module.six" />
@@ -11,7 +11,7 @@
 	<extension point="xbmc.addon.metadata">
         <platform>all</platform>
 		<summary lang="es">Cliente no oficial de A3Player</summary>
-		<description lang="es">Disfruta del contenido de A3Player con la potencia de AtresDaily. Búsquedas inteligentes y programación en directo.</description>
+		<description lang="es">Explora el contenido de A3Player con la potencia de AtresDaily. Búsquedas inteligentes y programación en directo.</description>
 		<disclaimer>Este addon no aloja contenido. Solo actúa como cliente web.</disclaimer>
 		<license>GPL-2.0-or-later</license>
 		<assets>
