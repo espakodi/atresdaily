@@ -1,13 +1,15 @@
 <addon
-	id="plugin.video.atresdaily" version="3.0.0" name="[B][COLOR orange]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="EspaKodi">
+	id="plugin.video.atresdaily" version="4.0.0" name="[B][COLOR orange]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="EspaKodi">
 <requires>
+    <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
-    <import addon="script.module.six" />
+    <import addon="script.module.resolveurl" optional="true" />
   </requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
 
+	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
         <platform>all</platform>
 		<summary lang="es">Cliente no oficial de A3Player</summary>
@@ -15,7 +17,8 @@
 		<disclaimer>Este addon no aloja contenido. Solo actúa como cliente web.</disclaimer>
 		<license>GPL-2.0-or-later</license>
 		<assets>
-        	<icon>icon.png</icon>
+        	<icon>icon.jpg</icon>
+        	<fanart>fanart.jpg</fanart>
     	</assets>
 		<language>es</language>
 	</extension>
