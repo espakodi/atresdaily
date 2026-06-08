@@ -1,39 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="repository.atresdaily" name="AtresDaily Repository" version="1.0.1" provider-name="RubenSDFA1labernt">
+<addons>
+  <addon id="repository.atresdaily" name="AtresDaily Repository" version="1.0.1" provider-name="RubénSDFA1laberot">
     <extension point="xbmc.addon.repository" name="AtresDaily Repository">
-        <dir>
-            <info compressed="false">https://fullstackcurso.github.io/atresdaily/addons.xml</info>
-            <checksum>https://fullstackcurso.github.io/atresdaily/addons.xml.md5</checksum>
-            <datadir zip="true">https://fullstackcurso.github.io/atresdaily/</datadir>
-        </dir>
+      <dir>
+        <info compressed="false">https://fullstackcurso.github.io/atresdaily/addons.xml</info>
+        <checksum>https://fullstackcurso.github.io/atresdaily/addons.xml.md5</checksum>
+        <datadir zip="true">https://fullstackcurso.github.io/atresdaily/</datadir>
+      </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="es">Repositorio de AtresDaily</summary>
-        <description lang="es">Repositorio oficial para instalar y actualizar el addon AtresDaily.</description>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            </assets>
+      <summary lang="es">Repositorio de AtresDaily</summary>
+      <description lang="es">Repositorio oficial para instalar y actualizar el addon AtresDaily.</description>
+      <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.png</fanart>
+      </assets>
     </extension>
-</addon><addon
-	id="plugin.video.atresdaily" version="3.0.0" name="[B][COLOR orange]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="EspaKodi">
-<requires>
-    <import addon="script.module.requests" />
-    <import addon="script.module.six" />
-  </requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-		<summary lang="es">Cliente no oficial de A3Player</summary>
-		<description lang="es">Explora el contenido de A3Player con la potencia de AtresDaily. Búsquedas inteligentes y programación en directo.</description>
-		<disclaimer>Este addon no aloja contenido. Solo actúa como cliente web.</disclaimer>
-		<license>GPL-2.0-or-later</license>
-		<assets>
-        	<icon>icon.png</icon>
-    	</assets>
-		<language>es</language>
-	</extension>
-</addon></addons>
+  </addon>
+  <addon id="plugin.video.atresdaily" version="4.0.0" name="[B][COLOR orange]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="EspaKodi">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0" />
+      <import addon="script.module.requests" />
+      <import addon="script.module.resolveurl" optional="true" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary lang="es">Cliente no oficial de A3Player</summary>
+      <description lang="es">Explora el contenido de A3Player con la potencia de AtresDaily. Búsquedas inteligentes y programación en directo.</description>
+      <disclaimer>Este addon no aloja contenido. Solo actúa como cliente web.</disclaimer>
+      <license>GPL-2.0-or-later</license>
+      <assets>
+        <icon>icon.jpg</icon>
+        <fanart>fanart.jpg</fanart>
+      </assets>
+      <language>es</language>
+    </extension>
+  </addon>
+</addons>
