@@ -4,10 +4,10 @@
 
 Repositorio y más información: https://espatv.github.io/atresdaily/
 
-### Verificación de integridad (v4.0.0):
+### Verificación de integridad (v5.0.0):
 
-- **MD5**: a4079d53dac6313bed60cf192441da7d
-- **SHA-256**: 87be1017ca5eb016cfd1b2b3be3675377673973296afef540277fa4ca8b5dcaa
+- **MD5**: 60ce562b6ea5e009b7f757b5fe890219
+- **SHA-256**: a72a60f89be17bcd89572d836cff4e8f045e06fbfb2f7d9b06bfee51b5621494
 
 ---
 

@@ -1,18 +1,36 @@
 AVISO LEGAL Y DESCARGO DE RESPONSABILIDAD. LEA ESTE DOCUMENTO DETENIDAMENTE ANTES DE UTILIZAR EL SOFTWARE.
 
+AUSENCIA DE ÁNIMO DE LUCRO
+Se declara explícitamente que este proyecto es una iniciativa de desarrollo de software amateur y educativo, totalmente gratuita y sin fines comerciales.
+ a) El software NO contiene publicidad pagada, banners, ni sistemas de monetización.
+ b) El desarrollador NO recibe ingresos directos ni indirectos por la distribución o uso de este software.
+ c) NO se comercializan datos de usuarios con terceros.
+
 NATURALEZA TÉCNICA Y OBJETO
 Este software ("AtresDaily") es una herramienta que actúa como interfaz de presentación entre Kodi y plataformas de contenido audiovisual, adaptando para este entorno multimedia información y referencias procedentes de contenido accesible públicamente en las mismas condiciones técnicas en que lo haría cualquier navegador web convencional.
+Este addon no aloja contenido. La mayor parte de los resultados se obtiene dinámicamente al ejecutar la consulta del usuario, sin una base de datos interna de enlaces ni un repositorio precargado. Incluye además unas pocas listas de canales de acceso libre publicadas y mantenidas por proyectos de terceros (TDTChannels, iptv-org, Free-TV); el addon solo enlaza a ellas, son de acceso público para cualquiera y recogen canales emitidos en abierto.
+Cualquier resultado mostrado es públicamente accesible mediante un navegador web convencional. El addon no aporta acceso privilegiado ni distinto del que tendría cualquier usuario navegando manualmente con sus propias credenciales.
 
 AUSENCIA DE ALOJAMIENTO Y DISTRIBUCIÓN
 En relación al funcionamiento técnico del software, se hace constar expresamente que:
  a) Este software NO contiene, almacena, distribuye, comunica públicamente ni aloja ningún archivo de vídeo, audio o material audiovisual protegido por derechos de autor en sus propios servidores ni en el código distribuido.
  b) Todo el contenido reproducido a través del software es transmitido directamente ("Direct Stream") desde los servidores de los legítimos propietarios o plataformas de alojamiento de terceros hacia el dispositivo del usuario final. El Addon actúa meramente como un índice o referenciador de contenidos.
 
+CONTENIDO DE PLATAFORMAS DE TERCEROS
+Los resultados que muestra este software provienen íntegramente de plataformas de alojamiento de terceros (como Dailymotion u otras) que operan bajo sus propias políticas de moderación de contenido y procedimientos de retirada (DMCA/Notice & Takedown).
+ - El desarrollador de este software NO sube, selecciona, modera, valida ni tiene control alguno sobre el contenido alojado en dichas plataformas.
+ - Este software se limita a utilizar las APIs públicas y mecanismos de búsqueda que dichas plataformas ponen a disposición de cualquier desarrollador o usuario.
+ - La responsabilidad sobre la legalidad del contenido alojado recae exclusivamente en la plataforma de alojamiento y en el usuario que lo subió, conforme a los regímenes de responsabilidad de intermediarios (Directiva 2000/31/CE en la UE, DMCA §512 en EE.UU.).
+ - Si un titular de derechos detecta contenido infractor en dichas plataformas, debe dirigir su reclamación directamente a la plataforma de alojamiento a través de sus canales oficiales de retirada.
+
+AUSENCIA DE CURACIÓN EDITORIAL HUMANA
+El addon no realiza selección editorial humana ni moderación manual de los resultados que muestra. Aplica filtros y algoritmos automáticos para mejorar la relevancia técnica (precisión textual, idioma, fecha de publicación, duración, etc.), de forma análoga a cualquier motor de búsqueda. La fuente, disponibilidad y existencia de los contenidos depende exclusivamente de las plataformas de terceros consultadas. El desarrollador no preselecciona manualmente qué contenidos concretos aparecen ni los modera individualmente.
+
 POLÍTICA DE ENLACES Y ACCESO PÚBLICO
 El funcionamiento del Addon consiste en detectar, indexar y adaptar para Kodi información y referencias procedentes de contenido al que se accede en las mismas condiciones técnicas en que lo haría cualquier navegador web convencional, actuando exclusivamente como interfaz de presentación y no como proveedor ni distribuidor del contenido.
 De conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea:
-Caso C-466/12 “Svensson” (2014): el suministro de enlaces a obras libremente accesibles en otra página web no constituye, en determinadas circunstancias, una comunicación a un público nuevo.
-Caso C-160/15 “GS Media” (2016): la licitud del enlace debe valorarse atendiendo, entre otros factores, a si la persona que enlaza conocía o podía conocer razonablemente el carácter no autorizado del contenido enlazado y a la existencia o no de ánimo de lucro.
+Caso C-466/12 "Svensson" (2014): el suministro de enlaces a obras libremente accesibles en otra página web no constituye, en determinadas circunstancias, una comunicación a un público nuevo.
+Caso C-160/15 "GS Media" (2016): la licitud del enlace debe valorarse atendiendo, entre otros factores, a si la persona que enlaza conocía o podía conocer razonablemente el carácter no autorizado del contenido enlazado y a la existencia o no de ánimo de lucro.
 Caso C-392/19 "VG Bild-Kunst" (2021): el TJUE precisó que la incrustación de contenido protegido puede constituir comunicación al público cuando se eluden medidas restrictivas adoptadas por el titular. Este supuesto no es aplicable al presente software, dado que el contenido al que da acceso no está protegido por ninguna medida técnica de restricción, siendo libremente accesible por cualquier usuario sin necesidad de autenticación.
 De conformidad con el Art. 17 de la Ley 34/2002 de Servicios de la Sociedad de la Información (LSSI-CE), el prestador de servicios de enlace o indexación no será responsable por los contenidos enlazados cuando no tenga conocimiento efectivo de su ilicitud o, teniéndolo, actúe con diligencia para retirar o inutilizar el enlace.
 Este software no elude muros de pago ni sistemas de autenticación.
@@ -25,26 +43,34 @@ RESPONSABILIDAD DEL USUARIO FINAL Y TÉRMINOS DE TERCEROS
 El usuario reconoce y acepta que:
  a) Es el único responsable de asegurar que su acceso al contenido cumple con las leyes de su jurisdicción local y con los Términos de Servicio (TOS) de las plataformas de origen.
  b) El uso de mecanismos para eludir restricciones geográficas (VPN, Proxies) es una decisión exclusiva del usuario, el usuario asume la responsabilidad de su uso.
+ c) CUMPLIMIENTO DE TÉRMINOS DE TERCEROS: Este software es una herramienta independiente y no oficial. El usuario es el único responsable de revisar, conocer y cumplir los Términos de Servicio (TOS) de cada plataforma de contenido a la que acceda a través de este software, así como la normativa aplicable en su jurisdicción. El desarrollador no realiza ningún juicio previo sobre la compatibilidad de este software con dichos términos, cuestión cuya valoración corresponde exclusivamente al usuario y, en su caso, a los tribunales competentes.
 
-c) CUMPLIMIENTO DE TÉRMINOS DE TERCEROS: Este software es una herramienta independiente y no oficial. El usuario es el único responsable de revisar, conocer y cumplir los Términos de Servicio (TOS) de cada plataforma de contenido a la que acceda a través de este software, así como la normativa aplicable en su jurisdicción. El desarrollador no realiza ningún juicio previo sobre la compatibilidad de este software con dichos términos, cuestión cuya valoración corresponde exclusivamente al usuario y, en su caso, a los tribunales competentes.
+INTEGRACIÓN CON SOFTWARE EXTERNO
+Este software puede ofrecer funcionalidades de interoperabilidad con otros addons de Kodi instalados por el usuario. Estas integraciones:
+ - Son meros atajos de navegación que redirigen al software externo correspondiente.
+ - No implican que este proyecto desarrolle, mantenga, controle o sea responsable de la funcionalidad de dichos addons externos.
+ - La instalación y uso de cualquier addon externo es decisión y responsabilidad exclusiva del usuario.
+ - La reproducción puede delegarse en un addon externo que el usuario haya instalado y configurado voluntariamente. AtresDaily no descifra contenido cifrado, no rompe sistemas de seguridad activos ni elude medidas técnicas de protección (DRM). Si un contenido requiere autenticación, esta se realiza exclusivamente dentro del addon externo correspondiente con las credenciales propias del usuario; AtresDaily no almacena, gestiona ni transmite dichas credenciales. El addon se limita a acceder a recursos servidos por el proveedor sin protección técnica aplicada en el momento del acceso.
+ - Algunas de esas reproducciones son P2P (AceStream, torrents mediante addons externos). En una red P2P, mientras ves un contenido tu equipo también comparte fragmentos de ese contenido con otros participantes y tu dirección IP queda a la vista de la red, igual que en BitTorrent. Por privacidad, es mejor tener una VPN activa al usar estas funciones.
 
 PRIVACIDAD Y DATOS (GDPR)
-Este software no recopila datos personales identificables del usuario. No se utilizan servicios analíticos de terceros ni rastreadores de navegación.
-Con el único fin de mejorar el software, planificar su desarrollo y dimensionar los recursos necesarios, se tiene interés en conocer la plataforma, versión del addon y versión de Kodi para generar estadísticas. La base jurídica de este tratamiento es el interés legítimo del desarrollador (Art. 6.1.f RGPD) en la mejora y mantenimiento del software. Esta información no está vinculada a ningún dato personal, dirección IP, hábito de uso ni contenido reproducido, por lo que el desarrollador no puede asociar estos datos a ningún usuario en particular.
+Responsable del tratamiento: RubénSDFA1laberot. Contacto a través de los canales indicados en el repositorio oficial.
+Este software recopila de forma automática datos técnicos pseudonimizados, sin vinculación con la identidad personal del usuario, con el único fin de saber qué versiones requieren soporte prioritario para mejorar el software y planificar su desarrollo:
+ - Un identificador aleatorio (UUID) generado localmente, no vinculado a ningún dato personal ni a la identidad del usuario, cuyo único propósito es evitar contabilizar varias veces una misma instalación.
+ - La plataforma del dispositivo, el identificador del addon, la versión del addon y la versión de Kodi.
+ - Una marca temporal ("last_seen") que se actualiza con cada envío y permite eliminar periódicamente los registros de instalaciones inactivas.
+ - Estos datos se envían periódicamente a un servicio externo. La retención en el servidor remoto es de 30 días, tras los cuales los registros inactivos se eliminan automáticamente. La base jurídica de este tratamiento es el interés legítimo del desarrollador (Art. 6.1.f RGPD) en la mejora y mantenimiento del software.
+ - El desarrollador NO recopila ni almacena direcciones IP de los usuarios.
+ - El usuario puede desactivar esta telemetría en cualquier momento eliminando el archivo "stats.json" ubicado en la carpeta de perfil del addon.
+ - Los datos pueden tratarse en servidores ubicados fuera del Espacio Económico Europeo (EEE), bajo Cláusulas Contractuales Tipo (Standard Contractual Clauses) aprobadas por la Comisión Europea.
+ - El resto del procesamiento (favoritos, historial, búsquedas, preferencias) se realiza exclusivamente de forma local en el dispositivo del usuario.
 Cualquier otra interacción de red (cookies, IPs) se realiza directamente entre el dispositivo del usuario y los servidores del proveedor de contenido, sujeta a las políticas de privacidad de dichos proveedores.
 
 LICENCIA
-El código fuente público de este proyecto se distribuye como software libre (GPL-2.0-or-later). Se permite su uso, estudio y distribución siempre que se mantenga la atribución al autor original y este aviso legal.
+El código fuente público de este proyecto se distribuye como software libre (GPL-2.0-or-later), en los términos de esa licencia, que ya obliga a conservar los avisos de copyright y de atribución al autor original. Como favor, no como condición añadida, se ruega mantener también este aviso legal.
 
 EXENCIÓN DE GARANTÍAS
-El software se proporciona "TAL CUAL" (AS IS), sin garantías de ningún tipo.
-
-AUSENCIA DE ÁNIMO DE LUCRO
-Se declara explícitamente que este proyecto es una iniciativa de desarrollo de software amateur y educativo, totalmente gratuita y sin fines comerciales.
- a) El software NO contiene publicidad pagada, banners, ni sistemas de monetización.
- b) El desarrollador NO recibe ingresos directos ni indirectos por la distribución o uso de este software.
- c) Las donaciones, si las hubiera, son estrictamente voluntarias, no vinculantes al acceso del software, y destinadas exclusivamente a cubrir costes de desarrollo y mantenimiento.
- d) NO se comercializan datos de usuarios con terceros.
+El software se proporciona "TAL CUAL" (AS IS), sin garantías de ningún tipo. El desarrollador no garantiza la disponibilidad continua de los servicios de terceros, los cuales pueden bloquear o modificar su acceso en cualquier momento.
 
 ARQUITECTURA Y ALCANCE DEL CÓDIGO DISTRIBUIDO
 El código fuente público de este proyecto constituye exclusivamente la capa de interfaz de usuario para Kodi. La eventual obtención de metadatos, referencias de catálogo o recursos necesarios para la reproducción desde servicios de terceros depende de módulos o scripts externos, no incluidos en el repositorio público ni distribuidos como parte del código fuente principal.
@@ -52,10 +78,25 @@ El código fuente público de este proyecto constituye exclusivamente la capa de
 Los módulos conectores externos no forman parte del código fuente público de este proyecto, no se distribuyen ni mantienen por el autor en dicho repositorio y su funcionamiento queda fuera de su control directo. Su obtención, instalación y uso corresponde exclusivamente al usuario final, sin perjuicio de las responsabilidades que puedan derivarse de la normativa aplicable.
 Por sí solo, el código fuente público no incorpora lógica de extracción de catálogo ni módulos de acceso a servicios de terceros; cualquier funcionalidad de esa naturaleza depende de componentes externos ajenos al repositorio público.
 
+Al aceptar estos términos de uso, el usuario acepta la obtención y ejecución de dichos módulos conectores como parte integral del funcionamiento del software. Sin estos componentes, el addon solo muestra los menús de navegación sin acceder a contenido externo.
+
+AVISO SOBRE VERSIONES DERIVADAS
+Si decide publicar una versión modificada, le solicitamos que utilice un nombre distintivo (por ejemplo: "NombreAddon basado en AtresDaily") para evitar confusión entre los usuarios y no interferir con el soporte oficial del proyecto original.
+Asimismo, se ruega encarecidamente NO incluir este software en productos comerciales (cajas IPTV de pago, suscripciones, paquetes monetizados o cualquier modelo de redistribución con ánimo de lucro). El proyecto es gratuito por filosofía y su inclusión en productos de pago contradice el espíritu de la comunidad que lo desarrolla y mantiene.
+
+RECURSOS GRÁFICOS Y MARCA
+Los recursos gráficos (iconos, fanart, logotipos) y la marca "AtresDaily" son propiedad exclusiva del autor y NO se distribuyen bajo licencia GPL, sino que se reservan todos los derechos. Las obras derivadas NO pueden utilizar estos recursos gráficos originales ni la marca "AtresDaily" sin permiso explícito y por escrito del autor, debiendo aportar sus propias imágenes y un nombre distintivo para evitar la suplantación de identidad visual del proyecto oficial. Queda expresamente prohibido el uso comercial no autorizado de la marca y de los recursos gráficos.
+
 CONTACTO PARA TITULARES DE DERECHOS
 Si usted es titular de derechos de propiedad intelectual y considera que algún elemento de este software pudiera afectar a sus derechos, le invitamos a contactar con el autor a través de los canales de contacto habilitados en el repositorio oficial antes de iniciar cualquier procedimiento formal, en la convicción de que cualquier discrepancia puede resolverse de forma ágil y amistosa.
 En su comunicación, le rogamos identifique con precisión el elemento concreto del código fuente que considera problemático y el derecho que estima vulnerado, de modo que el autor pueda analizar la situación y, si procede, adoptar las medidas correctoras oportunas.
 Existe voluntad total de cooperación.
 
+DIVISIBILIDAD
+Si alguna disposición de este Aviso Legal fuera declarada inválida o inaplicable por una autoridad competente, dicha invalidez no afectará al resto de disposiciones, que mantendrán su plena vigencia y efecto.
 
-Última actualización: abril 2026
+MODIFICACIONES DEL AVISO LEGAL
+El autor se reserva el derecho a modificar este Aviso Legal en cualquier momento. Los cambios se reflejarán en la fecha de "Última actualización" indicada al pie del documento. El uso continuado del software tras dichas modificaciones implica la aceptación de la versión vigente.
+
+
+Última actualización: mayo 2026
